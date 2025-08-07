@@ -8,6 +8,8 @@ Librerias de apoyo :
 
 Requerimientos : NodeJS 18.18 o Superior 
 
+El proyecto se realizo con Typescript y Slint para manejar mejor los valores de las variables y la consistencia del proyecto.
+
 Instrucciones para ejecutar el proyecto :
 
     1.- npm install (para instalar dependencias necesarias indicadas en el package.json)
