@@ -18,3 +18,4 @@ Instrucciones para ejecutar el proyecto :
     
 Para la db utilice PostgreSQL con supabase.com para generar una db de pruebas.
 la conexion se encuentra en src/app/lib/db.ts puede sustituirse o integrarse en un .env en caso de no ser pruebas
+el escript lo pueden encontrar en la raiz scriptdb medigroup.sql

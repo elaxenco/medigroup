@@ -7,105 +7,106 @@ CREATE TABLE medicamentos   (
 	fecha_expiracion DATE
 );
 
-INSERT INTO medicamentos (nombre, categoria, cantidad, fecha_expiracion) VALUES ('Omeprazol 1', 'Antihipertensivo', 195, '2028-06-18');
-INSERT INTO medicamentos (nombre, categoria, cantidad, fecha_expiracion) VALUES ('Metformina 2', 'Analgésico', 356, '2027-11-02');
-INSERT INTO medicamentos (nombre, categoria, cantidad, fecha_expiracion) VALUES ('Amoxicilina 3', 'Antibiótico', 427, '2026-06-27');
-INSERT INTO medicamentos (nombre, categoria, cantidad, fecha_expiracion) VALUES ('Ibuprofeno 4', 'Gastritis', 21, '2025-10-20');
-INSERT INTO medicamentos (nombre, categoria, cantidad, fecha_expiracion) VALUES ('Paracetamol 5', 'Antiinflamatorio', 33, '2027-03-01');
-INSERT INTO medicamentos (nombre, categoria, cantidad, fecha_expiracion) VALUES ('Amoxicilina 6', 'Cardiología', 436, '2026-11-08');
-INSERT INTO medicamentos (nombre, categoria, cantidad, fecha_expiracion) VALUES ('Omeprazol 7', 'Analgésico', 80, '2027-11-23');
-INSERT INTO medicamentos (nombre, categoria, cantidad, fecha_expiracion) VALUES ('Omeprazol 8', 'Antibiótico', 311, '2027-07-21');
-INSERT INTO medicamentos (nombre, categoria, cantidad, fecha_expiracion) VALUES ('Metformina 9', 'Antidepresivo', 169, '2028-02-26');
-INSERT INTO medicamentos (nombre, categoria, cantidad, fecha_expiracion) VALUES ('Amoxicilina 10', 'Diabetes', 112, '2028-04-29');
-INSERT INTO medicamentos (nombre, categoria, cantidad, fecha_expiracion) VALUES ('Ibuprofeno 11', 'Antidepresivo', 457, '2028-06-11');
-INSERT INTO medicamentos (nombre, categoria, cantidad, fecha_expiracion) VALUES ('Amoxicilina 12', 'Analgésico', 100, '2025-09-05');
-INSERT INTO medicamentos (nombre, categoria, cantidad, fecha_expiracion) VALUES ('Atorvastatina 13', 'Diabetes', 57, '2028-02-08');
-INSERT INTO medicamentos (nombre, categoria, cantidad, fecha_expiracion) VALUES ('Paracetamol 14', 'Antidepresivo', 343, '2027-09-10');
-INSERT INTO medicamentos (nombre, categoria, cantidad, fecha_expiracion) VALUES ('Atorvastatina 15', 'Analgésico', 77, '2025-11-20');
-INSERT INTO medicamentos (nombre, categoria, cantidad, fecha_expiracion) VALUES ('Amoxicilina 16', 'Diabetes', 241, '2028-06-05');
-INSERT INTO medicamentos (nombre, categoria, cantidad, fecha_expiracion) VALUES ('Amoxicilina 17', 'Cardiología', 493, '2025-08-13');
-INSERT INTO medicamentos (nombre, categoria, cantidad, fecha_expiracion) VALUES ('Atorvastatina 18', 'Antihipertensivo', 369, '2026-09-18');
-INSERT INTO medicamentos (nombre, categoria, cantidad, fecha_expiracion) VALUES ('Paracetamol 19', 'Gastritis', 227, '2026-04-11');
-INSERT INTO medicamentos (nombre, categoria, cantidad, fecha_expiracion) VALUES ('Losartán 20', 'Cardiología', 325, '2026-12-04');
-INSERT INTO medicamentos (nombre, categoria, cantidad, fecha_expiracion) VALUES ('Paracetamol 21', 'Diabetes', 412, '2027-11-15');
-INSERT INTO medicamentos (nombre, categoria, cantidad, fecha_expiracion) VALUES ('Metformina 22', 'Analgésico', 283, '2027-10-30');
-INSERT INTO medicamentos (nombre, categoria, cantidad, fecha_expiracion) VALUES ('Paracetamol 23', 'Antidepresivo', 444, '2026-01-17');
-INSERT INTO medicamentos (nombre, categoria, cantidad, fecha_expiracion) VALUES ('Aspirina 24', 'Cardiología', 338, '2027-05-07');
-INSERT INTO medicamentos (nombre, categoria, cantidad, fecha_expiracion) VALUES ('Metformina 25', 'Antibiótico', 399, '2026-02-23');
-INSERT INTO medicamentos (nombre, categoria, cantidad, fecha_expiracion) VALUES ('Amoxicilina 26', 'Antiinflamatorio', 152, '2025-12-31');
-INSERT INTO medicamentos (nombre, categoria, cantidad, fecha_expiracion) VALUES ('Amoxicilina 27', 'Antidepresivo', 220, '2027-10-21');
-INSERT INTO medicamentos (nombre, categoria, cantidad, fecha_expiracion) VALUES ('Amoxicilina 28', 'Cardiología', 94, '2026-12-15');
-INSERT INTO medicamentos (nombre, categoria, cantidad, fecha_expiracion) VALUES ('Omeprazol 29', 'Cardiología', 57, '2026-07-17');
-INSERT INTO medicamentos (nombre, categoria, cantidad, fecha_expiracion) VALUES ('Aspirina 30', 'Gastritis', 193, '2026-01-31');
-INSERT INTO medicamentos (nombre, categoria, cantidad, fecha_expiracion) VALUES ('Amoxicilina 31', 'Gastritis', 84, '2028-02-23');
-INSERT INTO medicamentos (nombre, categoria, cantidad, fecha_expiracion) VALUES ('Amoxicilina 32', 'Gastritis', 140, '2025-08-06');
-INSERT INTO medicamentos (nombre, categoria, cantidad, fecha_expiracion) VALUES ('Omeprazol 33', 'Antiinflamatorio', 38, '2026-07-12');
-INSERT INTO medicamentos (nombre, categoria, cantidad, fecha_expiracion) VALUES ('Omeprazol 34', 'Gastritis', 31, '2027-03-17');
-INSERT INTO medicamentos (nombre, categoria, cantidad, fecha_expiracion) VALUES ('Losartán 35', 'Gastritis', 253, '2026-02-05');
-INSERT INTO medicamentos (nombre, categoria, cantidad, fecha_expiracion) VALUES ('Ibuprofeno 36', 'Antibiótico', 147, '2027-06-05');
-INSERT INTO medicamentos (nombre, categoria, cantidad, fecha_expiracion) VALUES ('Metformina 37', 'Gastritis', 323, '2026-10-14');
-INSERT INTO medicamentos (nombre, categoria, cantidad, fecha_expiracion) VALUES ('Atorvastatina 38', 'Diabetes', 245, '2027-05-22');
-INSERT INTO medicamentos (nombre, categoria, cantidad, fecha_expiracion) VALUES ('Aspirina 39', 'Antibiótico', 499, '2026-11-25');
-INSERT INTO medicamentos (nombre, categoria, cantidad, fecha_expiracion) VALUES ('Amoxicilina 40', 'Antihipertensivo', 256, '2026-06-16');
-INSERT INTO medicamentos (nombre, categoria, cantidad, fecha_expiracion) VALUES ('Aspirina 41', 'Analgésico', 206, '2028-08-02');
-INSERT INTO medicamentos (nombre, categoria, cantidad, fecha_expiracion) VALUES ('Omeprazol 42', 'Antibiótico', 265, '2028-03-29');
-INSERT INTO medicamentos (nombre, categoria, cantidad, fecha_expiracion) VALUES ('Omeprazol 43', 'Antihipertensivo', 476, '2026-11-26');
-INSERT INTO medicamentos (nombre, categoria, cantidad, fecha_expiracion) VALUES ('Amoxicilina 44', 'Antibiótico', 195, '2028-02-29');
-INSERT INTO medicamentos (nombre, categoria, cantidad, fecha_expiracion) VALUES ('Losartán 45', 'Antibiótico', 226, '2026-02-18');
-INSERT INTO medicamentos (nombre, categoria, cantidad, fecha_expiracion) VALUES ('Aspirina 46', 'Cardiología', 225, '2027-07-28');
-INSERT INTO medicamentos (nombre, categoria, cantidad, fecha_expiracion) VALUES ('Aspirina 47', 'Antibiótico', 328, '2025-08-31');
-INSERT INTO medicamentos (nombre, categoria, cantidad, fecha_expiracion) VALUES ('Amoxicilina 48', 'Analgésico', 370, '2027-03-02');
-INSERT INTO medicamentos (nombre, categoria, cantidad, fecha_expiracion) VALUES ('Amoxicilina 49', 'Antiinflamatorio', 135, '2028-06-19');
-INSERT INTO medicamentos (nombre, categoria, cantidad, fecha_expiracion) VALUES ('Metformina 50', 'Gastritis', 33, '2028-01-24');
-INSERT INTO medicamentos (nombre, categoria, cantidad, fecha_expiracion) VALUES ('Paracetamol 51', 'Gastritis', 154, '2026-11-24');
-INSERT INTO medicamentos (nombre, categoria, cantidad, fecha_expiracion) VALUES ('Metformina 52', 'Antibiótico', 268, '2028-05-20');
-INSERT INTO medicamentos (nombre, categoria, cantidad, fecha_expiracion) VALUES ('Aspirina 53', 'Gastritis', 20, '2027-12-04');
-INSERT INTO medicamentos (nombre, categoria, cantidad, fecha_expiracion) VALUES ('Ibuprofeno 54', 'Cardiología', 337, '2028-03-30');
-INSERT INTO medicamentos (nombre, categoria, cantidad, fecha_expiracion) VALUES ('Ibuprofeno 55', 'Antibiótico', 179, '2027-05-24');
-INSERT INTO medicamentos (nombre, categoria, cantidad, fecha_expiracion) VALUES ('Aspirina 56', 'Diabetes', 293, '2027-03-04');
-INSERT INTO medicamentos (nombre, categoria, cantidad, fecha_expiracion) VALUES ('Metformina 57', 'Antiinflamatorio', 443, '2026-02-28');
-INSERT INTO medicamentos (nombre, categoria, cantidad, fecha_expiracion) VALUES ('Amoxicilina 58', 'Antidepresivo', 314, '2027-11-01');
-INSERT INTO medicamentos (nombre, categoria, cantidad, fecha_expiracion) VALUES ('Paracetamol 59', 'Antidepresivo', 32, '2027-09-22');
-INSERT INTO medicamentos (nombre, categoria, cantidad, fecha_expiracion) VALUES ('Amoxicilina 60', 'Diabetes', 147, '2026-06-08');
-INSERT INTO medicamentos (nombre, categoria, cantidad, fecha_expiracion) VALUES ('Losartán 61', 'Antidepresivo', 310, '2026-02-25');
-INSERT INTO medicamentos (nombre, categoria, cantidad, fecha_expiracion) VALUES ('Paracetamol 62', 'Antihipertensivo', 10, '2025-11-18');
-INSERT INTO medicamentos (nombre, categoria, cantidad, fecha_expiracion) VALUES ('Losartán 63', 'Antibiótico', 289, '2027-10-03');
-INSERT INTO medicamentos (nombre, categoria, cantidad, fecha_expiracion) VALUES ('Losartán 64', 'Diabetes', 130, '2027-05-13');
-INSERT INTO medicamentos (nombre, categoria, cantidad, fecha_expiracion) VALUES ('Losartán 65', 'Analgésico', 229, '2025-12-14');
-INSERT INTO medicamentos (nombre, categoria, cantidad, fecha_expiracion) VALUES ('Aspirina 66', 'Antibiótico', 140, '2027-08-09');
-INSERT INTO medicamentos (nombre, categoria, cantidad, fecha_expiracion) VALUES ('Amoxicilina 67', 'Cardiología', 324, '2026-09-27');
-INSERT INTO medicamentos (nombre, categoria, cantidad, fecha_expiracion) VALUES ('Omeprazol 68', 'Antibiótico', 476, '2027-05-07');
-INSERT INTO medicamentos (nombre, categoria, cantidad, fecha_expiracion) VALUES ('Ibuprofeno 69', 'Antiinflamatorio', 138, '2026-05-19');
-INSERT INTO medicamentos (nombre, categoria, cantidad, fecha_expiracion) VALUES ('Aspirina 70', 'Antihipertensivo', 389, '2027-06-02');
-INSERT INTO medicamentos (nombre, categoria, cantidad, fecha_expiracion) VALUES ('Atorvastatina 71', 'Gastritis', 140, '2027-06-14');
-INSERT INTO medicamentos (nombre, categoria, cantidad, fecha_expiracion) VALUES ('Metformina 72', 'Diabetes', 321, '2026-09-09');
-INSERT INTO medicamentos (nombre, categoria, cantidad, fecha_expiracion) VALUES ('Atorvastatina 73', 'Antidepresivo', 186, '2025-11-28');
-INSERT INTO medicamentos (nombre, categoria, cantidad, fecha_expiracion) VALUES ('Aspirina 74', 'Antibiótico', 486, '2026-03-21');
-INSERT INTO medicamentos (nombre, categoria, cantidad, fecha_expiracion) VALUES ('Amoxicilina 75', 'Analgésico', 296, '2026-03-31');
-INSERT INTO medicamentos (nombre, categoria, cantidad, fecha_expiracion) VALUES ('Aspirina 76', 'Cardiología', 32, '2028-05-13');
-INSERT INTO medicamentos (nombre, categoria, cantidad, fecha_expiracion) VALUES ('Metformina 77', 'Antibiótico', 421, '2025-10-16');
-INSERT INTO medicamentos (nombre, categoria, cantidad, fecha_expiracion) VALUES ('Paracetamol 78', 'Analgésico', 306, '2026-02-23');
-INSERT INTO medicamentos (nombre, categoria, cantidad, fecha_expiracion) VALUES ('Omeprazol 79', 'Diabetes', 412, '2028-06-03');
-INSERT INTO medicamentos (nombre, categoria, cantidad, fecha_expiracion) VALUES ('Losartán 80', 'Analgésico', 121, '2025-10-31');
-INSERT INTO medicamentos (nombre, categoria, cantidad, fecha_expiracion) VALUES ('Amoxicilina 81', 'Antibiótico', 296, '2028-03-31');
-INSERT INTO medicamentos (nombre, categoria, cantidad, fecha_expiracion) VALUES ('Ibuprofeno 82', 'Analgésico', 85, '2026-09-03');
-INSERT INTO medicamentos (nombre, categoria, cantidad, fecha_expiracion) VALUES ('Atorvastatina 83', 'Antibiótico', 243, '2027-08-15');
-INSERT INTO medicamentos (nombre, categoria, cantidad, fecha_expiracion) VALUES ('Aspirina 84', 'Cardiología', 429, '2026-10-14');
-INSERT INTO medicamentos (nombre, categoria, cantidad, fecha_expiracion) VALUES ('Losartán 85', 'Antihipertensivo', 250, '2026-01-10');
-INSERT INTO medicamentos (nombre, categoria, cantidad, fecha_expiracion) VALUES ('Metformina 86', 'Antihipertensivo', 337, '2026-04-11');
-INSERT INTO medicamentos (nombre, categoria, cantidad, fecha_expiracion) VALUES ('Atorvastatina 87', 'Cardiología', 448, '2027-11-30');
-INSERT INTO medicamentos (nombre, categoria, cantidad, fecha_expiracion) VALUES ('Ibuprofeno 88', 'Antidepresivo', 82, '2026-07-22');
-INSERT INTO medicamentos (nombre, categoria, cantidad, fecha_expiracion) VALUES ('Aspirina 89', 'Antiinflamatorio', 320, '2025-11-17');
-INSERT INTO medicamentos (nombre, categoria, cantidad, fecha_expiracion) VALUES ('Omeprazol 90', 'Antiinflamatorio', 167, '2025-11-09');
-INSERT INTO medicamentos (nombre, categoria, cantidad, fecha_expiracion) VALUES ('Ibuprofeno 91', 'Antiinflamatorio', 211, '2026-07-31');
-INSERT INTO medicamentos (nombre, categoria, cantidad, fecha_expiracion) VALUES ('Amoxicilina 92', 'Antidepresivo', 75, '2028-01-24');
-INSERT INTO medicamentos (nombre, categoria, cantidad, fecha_expiracion) VALUES ('Amoxicilina 93', 'Antiinflamatorio', 122, '2028-06-22');
-INSERT INTO medicamentos (nombre, categoria, cantidad, fecha_expiracion) VALUES ('Aspirina 94', 'Cardiología', 256, '2028-02-04');
-INSERT INTO medicamentos (nombre, categoria, cantidad, fecha_expiracion) VALUES ('Losartán 95', 'Antihipertensivo', 163, '2027-09-20');
-INSERT INTO medicamentos (nombre, categoria, cantidad, fecha_expiracion) VALUES ('Metformina 96', 'Analgésico', 464, '2026-02-27');
-INSERT INTO medicamentos (nombre, categoria, cantidad, fecha_expiracion) VALUES ('Omeprazol 97', 'Analgésico', 103, '2028-03-29');
-INSERT INTO medicamentos (nombre, categoria, cantidad, fecha_expiracion) VALUES ('Amoxicilina 98', 'Antidepresivo', 98, '2027-11-29');
-INSERT INTO medicamentos (nombre, categoria, cantidad, fecha_expiracion) VALUES ('Metformina 99', 'Antihipertensivo', 130, '2028-05-04');
-INSERT INTO medicamentos (nombre, categoria, cantidad, fecha_expiracion) VALUES ('Omeprazol 100', 'Diabetes', 99, '2027-02-11');
+INSERT INTO medicamentos (nombre, categoria, cantidad, fecha_expiracion) VALUES 
+('Omeprazol 1', 'Antihipertensivo', 195, '2028-06-18')
+, ('Metformina 2', 'Analgésico', 356, '2027-11-02')
+, ('Amoxicilina 3', 'Antibiótico', 427, '2026-06-27')
+, ('Ibuprofeno 4', 'Gastritis', 21, '2025-10-20')
+, ('Paracetamol 5', 'Antiinflamatorio', 33, '2027-03-01')
+, ('Amoxicilina 6', 'Cardiología', 436, '2026-11-08')
+, ('Omeprazol 7', 'Analgésico', 80, '2027-11-23')
+, ('Omeprazol 8', 'Antibiótico', 311, '2027-07-21')
+, ('Metformina 9', 'Antidepresivo', 169, '2028-02-26')
+, ('Amoxicilina 10', 'Diabetes', 112, '2028-04-29')
+, ('Ibuprofeno 11', 'Antidepresivo', 457, '2028-06-11')
+, ('Amoxicilina 12', 'Analgésico', 100, '2025-09-05')
+, ('Atorvastatina 13', 'Diabetes', 57, '2028-02-08')
+, ('Paracetamol 14', 'Antidepresivo', 343, '2027-09-10')
+, ('Atorvastatina 15', 'Analgésico', 77, '2025-11-20')
+, ('Amoxicilina 16', 'Diabetes', 241, '2028-06-05')
+, ('Amoxicilina 17', 'Cardiología', 493, '2025-08-13')
+, ('Atorvastatina 18', 'Antihipertensivo', 369, '2026-09-18')
+, ('Paracetamol 19', 'Gastritis', 227, '2026-04-11')
+, ('Losartán 20', 'Cardiología', 325, '2026-12-04')
+, ('Paracetamol 21', 'Diabetes', 412, '2027-11-15')
+, ('Metformina 22', 'Analgésico', 283, '2027-10-30')
+, ('Paracetamol 23', 'Antidepresivo', 444, '2026-01-17')
+, ('Aspirina 24', 'Cardiología', 338, '2027-05-07')
+, ('Metformina 25', 'Antibiótico', 399, '2026-02-23')
+, ('Amoxicilina 26', 'Antiinflamatorio', 152, '2025-12-31')
+, ('Amoxicilina 27', 'Antidepresivo', 220, '2027-10-21')
+, ('Amoxicilina 28', 'Cardiología', 94, '2026-12-15')
+, ('Omeprazol 29', 'Cardiología', 57, '2026-07-17')
+, ('Aspirina 30', 'Gastritis', 193, '2026-01-31')
+, ('Amoxicilina 31', 'Gastritis', 84, '2028-02-23')
+, ('Amoxicilina 32', 'Gastritis', 140, '2025-08-06')
+, ('Omeprazol 33', 'Antiinflamatorio', 38, '2026-07-12')
+, ('Omeprazol 34', 'Gastritis', 31, '2027-03-17')
+, ('Losartán 35', 'Gastritis', 253, '2026-02-05')
+, ('Ibuprofeno 36', 'Antibiótico', 147, '2027-06-05')
+, ('Metformina 37', 'Gastritis', 323, '2026-10-14')
+, ('Atorvastatina 38', 'Diabetes', 245, '2027-05-22')
+, ('Aspirina 39', 'Antibiótico', 499, '2026-11-25')
+, ('Amoxicilina 40', 'Antihipertensivo', 256, '2026-06-16')
+, ('Aspirina 41', 'Analgésico', 206, '2028-08-02')
+, ('Omeprazol 42', 'Antibiótico', 265, '2028-03-29')
+, ('Omeprazol 43', 'Antihipertensivo', 476, '2026-11-26')
+, ('Amoxicilina 44', 'Antibiótico', 195, '2028-02-29')
+, ('Losartán 45', 'Antibiótico', 226, '2026-02-18')
+, ('Aspirina 46', 'Cardiología', 225, '2027-07-28')
+, ('Aspirina 47', 'Antibiótico', 328, '2025-08-31')
+, ('Amoxicilina 48', 'Analgésico', 370, '2027-03-02')
+, ('Amoxicilina 49', 'Antiinflamatorio', 135, '2028-06-19')
+, ('Metformina 50', 'Gastritis', 33, '2028-01-24')
+, ('Paracetamol 51', 'Gastritis', 154, '2026-11-24')
+, ('Metformina 52', 'Antibiótico', 268, '2028-05-20')
+, ('Aspirina 53', 'Gastritis', 20, '2027-12-04')
+, ('Ibuprofeno 54', 'Cardiología', 337, '2028-03-30')
+, ('Ibuprofeno 55', 'Antibiótico', 179, '2027-05-24')
+, ('Aspirina 56', 'Diabetes', 293, '2027-03-04')
+, ('Metformina 57', 'Antiinflamatorio', 443, '2026-02-28')
+, ('Amoxicilina 58', 'Antidepresivo', 314, '2027-11-01')
+, ('Paracetamol 59', 'Antidepresivo', 32, '2027-09-22')
+, ('Amoxicilina 60', 'Diabetes', 147, '2026-06-08')
+, ('Losartán 61', 'Antidepresivo', 310, '2026-02-25')
+, ('Paracetamol 62', 'Antihipertensivo', 10, '2025-11-18')
+, ('Losartán 63', 'Antibiótico', 289, '2027-10-03')
+, ('Losartán 64', 'Diabetes', 130, '2027-05-13')
+, ('Losartán 65', 'Analgésico', 229, '2025-12-14')
+, ('Aspirina 66', 'Antibiótico', 140, '2027-08-09')
+, ('Amoxicilina 67', 'Cardiología', 324, '2026-09-27')
+, ('Omeprazol 68', 'Antibiótico', 476, '2027-05-07')
+, ('Ibuprofeno 69', 'Antiinflamatorio', 138, '2026-05-19')
+, ('Aspirina 70', 'Antihipertensivo', 389, '2027-06-02')
+, ('Atorvastatina 71', 'Gastritis', 140, '2027-06-14')
+, ('Metformina 72', 'Diabetes', 321, '2026-09-09')
+, ('Atorvastatina 73', 'Antidepresivo', 186, '2025-11-28')
+, ('Aspirina 74', 'Antibiótico', 486, '2026-03-21')
+, ('Amoxicilina 75', 'Analgésico', 296, '2026-03-31')
+, ('Aspirina 76', 'Cardiología', 32, '2028-05-13')
+, ('Metformina 77', 'Antibiótico', 421, '2025-10-16')
+, ('Paracetamol 78', 'Analgésico', 306, '2026-02-23')
+, ('Omeprazol 79', 'Diabetes', 412, '2028-06-03')
+, ('Losartán 80', 'Analgésico', 121, '2025-10-31')
+, ('Amoxicilina 81', 'Antibiótico', 296, '2028-03-31')
+, ('Ibuprofeno 82', 'Analgésico', 85, '2026-09-03')
+, ('Atorvastatina 83', 'Antibiótico', 243, '2027-08-15')
+, ('Aspirina 84', 'Cardiología', 429, '2026-10-14')
+, ('Losartán 85', 'Antihipertensivo', 250, '2026-01-10')
+, ('Metformina 86', 'Antihipertensivo', 337, '2026-04-11')
+, ('Atorvastatina 87', 'Cardiología', 448, '2027-11-30')
+, ('Ibuprofeno 88', 'Antidepresivo', 82, '2026-07-22')
+, ('Aspirina 89', 'Antiinflamatorio', 320, '2025-11-17')
+, ('Omeprazol 90', 'Antiinflamatorio', 167, '2025-11-09')
+, ('Ibuprofeno 91', 'Antiinflamatorio', 211, '2026-07-31')
+, ('Amoxicilina 92', 'Antidepresivo', 75, '2028-01-24')
+, ('Amoxicilina 93', 'Antiinflamatorio', 122, '2028-06-22')
+, ('Aspirina 94', 'Cardiología', 256, '2028-02-04')
+, ('Losartán 95', 'Antihipertensivo', 163, '2027-09-20')
+, ('Metformina 96', 'Analgésico', 464, '2026-02-27')
+, ('Omeprazol 97', 'Analgésico', 103, '2028-03-29')
+, ('Amoxicilina 98', 'Antidepresivo', 98, '2027-11-29')
+, ('Metformina 99', 'Antihipertensivo', 130, '2028-05-04')
+, ('Omeprazol 100', 'Diabetes', 99, '2027-02-11')
 
 
